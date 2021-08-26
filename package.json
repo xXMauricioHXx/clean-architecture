@@ -1,0 +1,17 @@
+{
+  "name": "clear-architecture",
+  "version": "1.0.0",
+  "description": "A package of helpers to build your project using the best pratices of clean code.",
+  "main": "index.js",
+  "scripts": {
+    "clean": "tsc --build --clean",
+    "build": "tsc"
+  },
+  "keywords": [
+    "clean-architecture",
+    "clean",
+    "helper"
+  ],
+  "author": "Mauricio Henrique",
+  "license": "ISC"
+}
